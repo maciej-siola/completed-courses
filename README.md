@@ -9,3 +9,6 @@ AWS DevOps CI/CD - CodePipeline, Elastic Beanstalk and Mocha:
   
 Kurs Gita (GIT Course) by Maciej Aniserowicz:
   https://edu.devstyle.pl/products/kurs-gita
+  
+DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL
+  https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/
