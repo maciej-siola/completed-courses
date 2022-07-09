@@ -12,3 +12,6 @@ Kurs Gita (GIT Course) by Maciej Aniserowicz:
   
 DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL
   https://www.udemy.com/course/devops-crash-course-cicd-with-jenkins-pipelines-groovy-dsl/
+
+Docker Essentials:
+  https://www.udemy.com/course/docker-essentials/
