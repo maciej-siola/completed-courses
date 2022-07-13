@@ -15,3 +15,6 @@ DevOps Crash Course: CI/CD with Jenkins Pipelines Groovy DSL
 
 Docker Essentials:
   https://www.udemy.com/course/docker-essentials/
+
+Kubernetes: Getting Started:
+  https://www.udemy.com/course/kubernetes-getting-started/
