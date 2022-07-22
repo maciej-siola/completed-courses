@@ -18,3 +18,6 @@ Docker Essentials:
 
 Kubernetes: Getting Started:
   https://www.udemy.com/course/kubernetes-getting-started/
+  
+Jenkins Full Course | Jenkins Tutorial For Beginners | Learn Jenkins Step By Step | Simplilearn
+  https://www.youtube.com/watch?v=MayMkFCkzj4
